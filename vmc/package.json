@@ -1,0 +1,14 @@
+{
+  "name": "wendor-mock-vmc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mock Vending Machine Controller (socket.io) for the Wendor software engineering intern task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
